@@ -1,0 +1,23 @@
+{
+  "name": "intelbras-jobinterview",
+  "version": "1.0.0",
+  "description": "Automação de testes e2e na plataforma take blip (chatbot)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djonymalta/intelbras-jobinterview.git"
+  },
+  "author": "DJONY MALTA",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "~8.0.0",
+    "cypress-cucumber-preprocessor": "~4.1.3"
+  },
+  "bugs": {
+    "url": "https://github.com/djonymalta/intelbras-jobinterview/issues"
+  },
+  "homepage": "https://github.com/djonymalta/intelbras-jobinterview#readme"
+}
