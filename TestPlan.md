@@ -112,9 +112,9 @@
 - O Chatbot deve ser iniciado automaticamente ao entrar, nao havendo a necessidade do usuario digitar alguma informacao para iniciar o chat.
 
 > Testes mais importantes a serem ressaltados. <br>
-> - Validar se a plataforma esta acessivel e funcional como os menus (clicaveis), o input text field liberado para enviar uma mensagem e o botao enviar.<br>
-> - Validar se as informacoes estao sendo gravadas.<br>
-> - Validar se as informacoes estao chegando aos responsaveis pelo atendimento ao cliente / provedor de acesso a internet<br>
+> - Acessivbilidade e funcionalidade - Valida se a plataforma esta  como os menus (clicaveis), o input text field liberado para enviar uma mensagem e o botao enviar.<br>
+> - Log e backup : Valida se as informacoes estao sendo gravadas.<br>
+> - Entrega : Validar se as informacoes estao chegando aos responsaveis pelo atendimento ao cliente / provedor de acesso a internet com status e prioridade.<br>
 
 
 
