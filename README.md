@@ -1,8 +1,9 @@
 # <p align="center"> Intelbras Job Interview    <img widht="10" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbv_PPIVcKRv5_ZFSw3ZIizhXgXlCwaBNiLQ&usqp=CAU" alt="Chatbot Icon"><img widht="10" height="80" src="https://logodownload.org/wp-content/uploads/2016/09/Intelbras-logo-1.png" alt="Chatbot Icon"></p><br>
+
+## Link para o plano de teste : [TestPlan][4]
+
 <br>
-
-
-
+<br>
 O que será necessário ter:
 
 * IDE - Utilizado | [Visual Studio code][0]
@@ -45,3 +46,4 @@ Para rodar o projeto, digite:<br>
 [1]: https://nodejs.org/en/
 [2]: https://git-scm.com/downloads
 [3]: https://github.com/djonymalta/intelbras-jobinterview.git
+[4]: https://github.com/djonymalta/intelbras-jobinterview/blob/main/TestPlan.md
